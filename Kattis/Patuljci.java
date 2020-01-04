@@ -22,7 +22,8 @@ class FastReader {
 		return toPrint;
 	}
 
-	public static boolean hasNext() {
+	WALATA.lamour.fh
+public static boolean hasNext() {
 		return nextToken() != null;
 	}
 
